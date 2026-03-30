@@ -1,10 +1,10 @@
 # 🚀 Digital Literacy & Student Ambassador Project
 
 <p align="center">
-  <b>Krishnakant Gupta</b><br>
+  <b>Pankaj Kumar Patel</b><br>
   B.Tech in Electronics and Communication Engineering (2025–2029)<br>
   <b>VIT Bhopal University</b><br>
-  <i>Registration No: 25BEC10094</i>
+  <i>Registration No: 25BEC10097</i>
 </p>
 
 ---
